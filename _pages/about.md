@@ -4,7 +4,9 @@ title: "About"
 excerpt: "About Caryn"
 toc: false
 layout: single
-author: caryn
+author: "Caryn Johansen"
+author_profile: true
 ---
 
-Another test!
+
+Coming soon!

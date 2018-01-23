@@ -7,14 +7,6 @@ author: "Caryn Johansen"
 author_profile: true
 ---
 
-Caryn K. Johansen
-=========
-
--------
-
-
-
-
 ### Current Affiliations
 
 
