@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rolling Averages"
+title                    : "Caryn K. Johansen"
 title_separator          : "-"
 name                     : "Caryn Johansen"
 description              : "Telling stories with data."
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Caryn Johansen"
   avatar           : "/assets/images/redRock_close.jpeg"
-  bio              : "a curious person"
+  bio              : ""
   location         : "Bay Area"
   email            : caryn.k.johansen@gmail.com
   uri              :
