@@ -4,8 +4,6 @@ layout: splash
 permalink: /ricedata/
 header: 
     overlay_image: /assets/images/netsearch_zoomed4_direction.png
-    overlay_color: #000
-    overlay_filter: "0.3"
 author: "Caryn Johansen"
 author_profile: true
 ---

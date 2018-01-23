@@ -4,8 +4,10 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "CV"
+    url: /cv/
+  #- title: "Data Sketches"
+  #  url: /data-sketches/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
