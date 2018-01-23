@@ -52,7 +52,6 @@ __Genome wise association study (GWAS) and environmental Quantitative Trait Loci
 __The Rice Data Center: a multi-feature data analysis tool for _Oryza sativa_ genetic, proteomic, and regulatory interaction network data__
 
 * Summary: a full-stack, custom built database and interactive data visualization created with the purpose to search five years worth of genomic, proteomic, and analysis of different rice populations from the Purugganan lab at NYU.
-* Summary: _"New high-throughput sequencing technology enables the production of large amounts of biological data, research groups are faced with huge, unwieldy data sets, and often multiple data sets. The Oryza Data Center is an attempt to provide simultaneous, easy, fast, and flexible access to multiple data sets for_ Oryza sativa _genetic information. The Oryza Data Center is a full-stack JavaScript-based data analysis tool that accesses genetic variant data, protein function mutation prediction data, and a regulatory interaction network, all generated in the Purugganan laboratory at New York University. The tool allows the researcher to search variant data for a specific gene, and to search for one or more genes in the interaction network. The results from these queries are represented in tables and interactive Cytoscape.js networks, and can be downloaded by the researcher."_
 * Adviser: [Dr. Michael Purugganan](http://puruggananlab.bio.nyu.edu/)
 * [more details...](/ricedata/)
 
