@@ -22,24 +22,12 @@ author_profile: true
 
 ## Technical Experience
 
-__Role of gene expression changes in the adaptation of Zea mays and wild relative teosinte to highland environments in Mexico and South America__
+__Role of gene expression changes in the adaptation of Zea mays and wild relative teosinte hybrids__
 
-* Summary:
+* Summary: Examining the effects of hybridization on gene expression patterns in the leaf tissue of corn-teosinte crosses. We noticed that many genes were disregulated in the sense that the gene expression in the offspring was much greater than either of the parents, or much less than either of the parents.
 * Advisers: [Dr. Jeffrey Ross-Ibarra](http://www.rilab.org/) & [Dr. Daniel Runcie](http://runcielab.ucdavis.edu/)
-* Tools used:
-* Links:
+* [more details...](/maizereg/)
 
-__Genome wise association study (GWAS) and environmental Quantitative Trait Loci (eQTL) in Zea mays hybrids__
-
-* Summary: The purpose of this project was to explore the genomic and gene expression data from _Zea mays_ inbred lines available from [Hirsch et al.](http://www.plantcell.org/content/26/1/121) and to learn how to conduct GWAS and eQTL studies. We acquired the phenotpic data from personal communication with the authors. I used the software _gemma_ to run a __linear mixed model__ to identify genomic markers associated with either a single phenotype (GWAS) or the expression of a specific gene (eQTL). I also used _BSFG_ to run a __sparse factor analysis__ to identify gene expression cluster.
-* Advisers: [Dr. Jeffrey Ross-Ibarra](http://www.rilab.org/) & [Dr. Daniel Runcie](http://runcielab.ucdavis.edu/)
-* Tools used:
-    - R
-    - linux & bash scripts
-    - python
-    - [gemma](http://www.xzlab.org/software.html)
-    - [BSFG](http://www.genetics.org/content/194/3/753)
-* Links:
 
 __The Rice Data Center: a multi-feature data analysis tool for _Oryza sativa_ genetic, proteomic, and regulatory interaction network data__
 
