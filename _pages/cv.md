@@ -22,12 +22,11 @@ author_profile: true
 
 ## Technical Experience
 
-__Role of gene expression changes in the adaptation of Zea mays and wild relative teosinte hybrids__
+__Role of gene expression changes in the adaptation of corn and wild relative teosinte hybrids__
 
 * Summary: Examining the effects of hybridization on gene expression patterns in the leaf tissue of corn-teosinte crosses. We noticed that many genes were disregulated in the sense that the gene expression in the offspring was much greater than either of the parents, or much less than either of the parents.
 * Advisers: [Dr. Jeffrey Ross-Ibarra](http://www.rilab.org/) & [Dr. Daniel Runcie](http://runcielab.ucdavis.edu/)
 * [more details...](/maizereg/)
-
 
 __The Rice Data Center: a multi-feature data analysis tool for _Oryza sativa_ genetic, proteomic, and regulatory interaction network data__
 
