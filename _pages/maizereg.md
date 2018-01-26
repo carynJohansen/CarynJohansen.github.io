@@ -2,6 +2,7 @@
 title: "Disregulation of Gene Expression in Corn"
 layout: splash
 permalink: /maizereg/
+toc: true
 header: 
     overlay_image: /assets/images/unnamed-chunk-10-1.png
 author: "Caryn Johansen"
@@ -14,7 +15,7 @@ At U.C. Davis, my main interest was working to understand how plants responded t
 
 To study this, I was using a moledule called ribonucleic acid, RNA, which is a metric of gene expression. In this study, I was measuring the gene expression of high performed corn varieties that had been crossed to corn's wild relative, [teosinte](https://teosinte.wisc.edu/questions.html).
 
-## My Question
+## My Questions
 
 Are there genes whose gene expression change are significantly different from the gene expression of either of the parents?
 
