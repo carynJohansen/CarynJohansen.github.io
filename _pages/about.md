@@ -22,4 +22,4 @@ Thanks for being here. Quick links below:
 
 Other links:
 
-[Data sketches](https://github.com/carynJohansen/data_sketches) - quick one hour sessions where I analyze and visualize with free data, and try to learn something. 
+[Data sketches](https://github.com/carynJohansen/data_sketches) - quick one hour sessions where I analyze and visualize public data with the purpose to improve my skills and learn something new. 
