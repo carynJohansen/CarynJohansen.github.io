@@ -22,6 +22,15 @@ As a starting point, before generating my own data, I used gene expression data 
 
 ## Tools and Methods
 
+_Tools and skills Used:_
+
+* linux and bash scripts
+* custom bioinformatics pipeline (outlined below)
+* R
+* linear regression and linear mixed regression
+* kallisto
+* limma
+
 Here is my general work flow:
 
 1 __Project Set-Up__

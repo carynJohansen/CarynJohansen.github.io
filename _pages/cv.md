@@ -28,11 +28,32 @@ __Role of gene expression changes in the adaptation of corn and wild relative te
 * Advisers: [Dr. Jeffrey Ross-Ibarra](http://www.rilab.org/) & [Dr. Daniel Runcie](http://runcielab.ucdavis.edu/)
 * [more details...](/maizereg/)
 
+__Use of a Bayesian sparse factor gibbs sampler to identify gene clusters__
+* Summary:
+* Adviser:
+* [more details...]
+
+__Calculating the population branch statistic between cultivars of corn and teosinte__
+* Summary:
+* Advisers:
+* [more details...]
+
+
 __The Rice Data Center: a multi-feature data analysis tool for _Oryza sativa_ genetic, proteomic, and regulatory interaction network data__
 
 * Summary: a full-stack, custom built database and interactive data visualization created with the purpose to search five years worth of genomic, proteomic, and analysis of different rice populations from the Purugganan lab at NYU.
 * Adviser: [Dr. Michael Purugganan](http://puruggananlab.bio.nyu.edu/)
 * [more details...](/ricedata/)
+
+__Genome wide association study (GWAS) on 503 corn cultivars__
+* Summary:
+* Advisers:
+* [more details...]
+
+__Indentification of environmental quantitative trait loci in 503 corn cultivars__
+* Summary:
+* Advisers:
+* [more details...]
 
 ## Community
 
