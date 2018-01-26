@@ -1,0 +1,10 @@
+# /_data/authors.yml
+
+Caryn Johansen:
+  name             : "Caryn Johansen"
+  avatar           : "/assets/images/redRock_close.jpeg"
+  bio              : ""
+  email            : caryn.k.johansen@gmail.com
+  github           : carynJohansen
+  linkedin         : carynjohansen # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  twitter          : jo_caryn
