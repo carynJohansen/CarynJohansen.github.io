@@ -7,6 +7,14 @@ author: "Caryn Johansen"
 author_profile: true
 ---
 
+## Description
+
+Caryn Johansen is a **computational biologist** and **data scientist**.  
+As a computational biologist she has more than four years experience designing and implementing bioinformatics pipelines for genomic analysis, and using a variety of **statistical** and **machine learning** tools for genetic analyses.
+As a data scientist, she works with data from a range of fields both in and outside of biology, and is an expert at **wrangling data** in **R**, creating **statistical models**, and **visualizing** compelling results.
+
+[About Page](/about/)
+
 ## Current Affiliation
 
 [Software Carpentry](https://software-carpentry.org/), Instructor
@@ -14,51 +22,62 @@ author_profile: true
 ## Education
 
 *   M.S. Bioinformatics, New York University, NY - __2016__
+    -   Adviser: [Dr. Michael Purugganan](http://puruggananlab.bio.nyu.edu/)
 *   B.S. Biology, Humboldt State University, CA - __2012__
 
 ### Previous Affiliations
 
 *   Plant Biology Graduate Group, Ph.D student, U.C. Davis - __2016-2018__
+    -   Advisers: [Dr. Jeffrey Ross-Ibarra](http://www.rilab.org/) & [Dr. Daniel Runcie](http://runcielab.ucdavis.edu/)
 *   Center for Population Biology, graduate student affiliate - __2017-2018__
+
+## Technical Skills
+
+**Statisical methods:** heirarchical models, linear and mixed models, hypothesis testing and confidence intervals, pricipal component analysis
+
+**Maching learning:** classification, regression, clustering, heirarchical modeling, K-Nearest Neighbor
+
+**Software and Programming languages:** R, Linux, Python, AWS, SQL, JavaScript, D3.js, LaTeX
+
+**Selected coursework:** Applied Statistical Modeling for the Environmental Sciences, MCMC for Genetics, Quantitative and Population Genetics, Advanced Quantitative Genetics, Mixed Models in Quantitative Genetics
+
+## Achievements
+
+__Built__ maize genetics work flows during my Ph.D work to analyze the genomics and traits of maize quickly and effectively.
+
+__Indentified__ differential gene expression patterns in corn and teosinte hybrids using linear mixed models.
+
+__Built__ a relational database and interactive user interface for research laboratory at NYU for researchers to quickly query and visualize the results of five years worth of data collection.
+
+__Certified__ as a Data Carpentry Instructor, to help teach academics and others the basics computational tools of data analysis.
 
 ## Technical Experience
 
 __Role of gene expression changes in the adaptation of corn and wild relative teosinte hybrids__
 
 * Examining the effects of hybridization on gene expression patterns in the leaf tissue of corn-teosinte crosses. We noticed that many genes were disregulated in the sense that the gene expression in the offspring was much greater than either of the parents, or much less than either of the parents.
-* Advisers: [Dr. Jeffrey Ross-Ibarra](http://www.rilab.org/) & [Dr. Daniel Runcie](http://runcielab.ucdavis.edu/)
 * [more details...](/maizereg/)
 
 __Use of a Bayesian sparse factor gibbs sampler to identify gene clusters__
 
-* Adviser:
-* [more details...]
-
 __Calculating the population branch statistic between cultivars of corn and teosinte__
-
-* Advisers:
-* more details...
-
 
 __The Rice Data Center: a multi-feature data analysis tool for _Oryza sativa_ genetic, proteomic, and regulatory interaction network data__
 
-* a full-stack, custom built database and interactive data visualization created with the purpose to search five years worth of genomic, proteomic, and analysis of different rice populations from the Purugganan lab at NYU.
-* Adviser: [Dr. Michael Purugganan](http://puruggananlab.bio.nyu.edu/)
+* Built a full-stack, custom built database and interactive data visualization created with the purpose to search five years worth of genomic, proteomic, and analysis of different rice populations from the Purugganan lab at NYU.
 * [more details...](/ricedata/)
 
 __Genome wide association study (GWAS) on 503 corn cultivars__
 
-* Advisers: [Dr. Jeffrey Ross-Ibarra](http://www.rilab.org/) & [Dr. Daniel Runcie](http://runcielab.ucdavis.edu/)
-* [more details...]
-
 __Indentification of environmental quantitative trait loci in 503 corn cultivars__
-*
-* Advisers: [Dr. Jeffrey Ross-Ibarra](http://www.rilab.org/) & [Dr. Daniel Runcie](http://runcielab.ucdavis.edu/)
-* more details...
+
+* [more details...](/eqtl/)
 
 ## Community
 
 * Data Carpentry Instructor
+    - Planned: Ecology/R at Chan Zuckerberg Biohub, May 2018
+    - Planned: Genomics at Chan Zuckerberg Biohub, May 2018
 
 ## Work Experience and Training
 
