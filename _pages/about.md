@@ -21,7 +21,7 @@ What really excites me is the sheer abundance of data being generated, both biol
 
 I'm invested in **continual learning**. I pursue personal projects on the side that advance my knowledge and skills in data analysis and constructing that analysis. During my PhD work at UC Davis, I pursued coursework and projects that allowed me to learn about machine learning techniques. 
 
-Other areas where I enjoy investing my time are **community involvement** at all levels, and **science comunication**. I am an instructor at Data Carpentry and I enjoy teaching others basic and advanced programming and data analysis skills. I also have been a contributor to Science Says, which aims to clarify incorrect science reporting in the media.
+Other areas where I enjoy investing my time are **community involvement** at all levels, and **science comunication**. I am an instructor at Data Carpentry and I enjoy teaching others basic and advanced programming and data analysis skills. I also have been a contributor to [Science Says](https://davissciencesays.com/), which aims to clarify incorrect science reporting in the media.
 
 I've recently relocated to the Bay Area and I am looking to put my skills, interests, and energy to good use.
 
