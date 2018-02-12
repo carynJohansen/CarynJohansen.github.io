@@ -12,7 +12,7 @@ A too-much-data story.
 
 ### Short summary:
 
-The [Purugganan lab](http://puruggananlab.bio.nyu.edu/) at NYU has studied rice genomics for years and had accumulated tons of data that was getting very little traffic. For my MS, I built a tool to allow researchers to quickly scan that data to answer questions, to reduce redundant use of research funds, to inform new hypotheses, and to inspire future research.
+The [Purugganan lab](http://puruggananlab.bio.nyu.edu/) at NYU has studied rice genomics for years and had accumulated terabytes of data that was used very little due to accessibility. For my MS, I built a tool to allow researchers to quickly scan that data to answer questions, to reduce redundant use of research funds, to inform new hypotheses, and to inspire future research.
 
 ## The Problem
 
