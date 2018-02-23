@@ -121,8 +121,6 @@ __Genome wide association study (GWAS) on 503 corn cultivars__
 
 __Indentification of environmental quantitative trait loci in 503 corn cultivars__
 
-* [more details...](/eqtl/)
-
 ## Community
 
 * Data Carpentry Instructor
