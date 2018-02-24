@@ -41,6 +41,8 @@ Personal Quantification project is in the works. This entails scraping my comput
 
 #### Personal notes
 
-I'm a runner, skier, and climber. I work hard in order to spend my weekends out of doors and in the mountains. Very few things bring me as much joy as trails through the woods, fresh mountain air, and new snow. 
+I'm a runner, skier, and climber. I work hard in order to spend my weekends out of doors and in the mountains. Very few things bring me as much joy as trails through the woods, fresh mountain air, and new snow.
+
+I am also always seeking to improve, and to learn new analysis techniques and new knowledge. Learning from those around me, and sharing what I know and enjoy is truly exciting to me. I will bring critical thinking, a sharing and outgoing character, and a willingness to try hard and try new things to your team.
 
 ![](/assets/images/IMG_7027_small.jpg)
