@@ -17,21 +17,21 @@ As a data scientist, she works with data from a range of fields both in and outs
 
 ## Current Affiliation
 
-Data Integration Contractor, Minotuar Inc. **Feb 2018 - present**
+__Computational Biologist__ • Minotuar Bio, Inc. • Feb 2018 - present
 
 [Software Carpentry](https://software-carpentry.org/), Instructor
 
 ## Education
 
-*   M.S. Bioinformatics, New York University, NY - __2016__
+*   __M.S. Bioinformatics and Biology__ • New York University, NY • 2016
     -   Adviser: [Dr. Michael Purugganan](http://puruggananlab.bio.nyu.edu/)
-*   B.S. Biology, Humboldt State University, CA - __2012__
+*   __B.S. Biology__ • Humboldt State University, CA • 2012
 
 ### Previous Affiliations
 
-*   Plant Biology Graduate Group, Ph.D student, U.C. Davis - __2016 - 2018__
+*   Plant Biology Graduate Group • Ph.D student, U.C. Davis • 2016 - 2018 
     -   Advisers: [Dr. Jeffrey Ross-Ibarra](http://www.rilab.org/) & [Dr. Daniel Runcie](http://runcielab.ucdavis.edu/)
-*   Center for Population Biology, graduate student affiliate - __2017 - 2018__
+*   Center for Population Biology • graduate student affiliate • 2017 - 2018
 
 ## Technical Skills
 
