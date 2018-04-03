@@ -17,7 +17,9 @@ As a data scientist, she works with data from a range of fields both in and outs
 
 ## Current Affiliation
 
-__Computational Biologist__ • Minotuar Bio, Inc. • Feb 2018 - present
+__Data Scientist Contractor__ • Minotuar Bio, Inc. • Feb 2018 - present
+
+[__Cabinet of Curisoty__](https://cabinetofcuriosity.github.io/cabinetofcuriosity_site/) • Data Science Blog with Ciera Martinez • March 2018 - present
 
 [Software Carpentry](https://software-carpentry.org/), Instructor
 
@@ -27,17 +29,13 @@ __Computational Biologist__ • Minotuar Bio, Inc. • Feb 2018 - present
     -   Adviser: [Dr. Michael Purugganan](http://puruggananlab.bio.nyu.edu/)
 *   __B.S. Biology__ • Humboldt State University, CA • 2012
 
-### Previous Affiliations
-
 *   Plant Biology Graduate Group • Ph.D student, U.C. Davis • 2016 - 2018 
     -   Advisers: [Dr. Jeffrey Ross-Ibarra](http://www.rilab.org/) & [Dr. Daniel Runcie](http://runcielab.ucdavis.edu/)
 *   Center for Population Biology • graduate student affiliate • 2017 - 2018
 
 ## Technical Skills
 
-**Machine learning:** supervised learning (classification/regression); unsupervised learning (k-NN clustering); support vector machines and kernel trick
-
-**Statistical methods:** hypothesis testing, linear, logistic , and mixed regression, hierarchical models, confidence intervals, dimension reduction (principal component analysis)
+**Machine learning and statistical methods:** supervised learning (classification/regression); unsupervised learning (k-NN clustering); support vector machines, hypothesis testing, regression, hierarchical models, confidence intervals, dimension reduction (principal component analysis)
 
 **Software and programming languages:** R, Linux, Python, AWS, SQL, JavaScript, D3.js, JAGS
 
@@ -46,7 +44,6 @@ __Computational Biologist__ • Minotuar Bio, Inc. • Feb 2018 - present
 **Selected coursework:** Applied Statistical Modeling for the Environmental Sciences, MCMC for Genetics, Quantitative and Population Genetics, Advanced Quantitative Genetics, Mixed Models in Quantitative Genetics
 
 ## Achievements
-
 
 __Built__ a relational database and interactive user interface using Python, JavaScript, and SQL for a research laboratory at NYU for researchers to quickly query and visualize the results of five years worth of data collection.
 
@@ -101,6 +98,11 @@ __Built__ personal application in R to quantify productivity and assess focus le
 * Adviser: Dr. Seung Rhee
 * Conducted research on the impact of salt stress impact on reproductive success and root architecture in _Arabidopsis thaliana_. Developed lab protocols to analyze sodium ion distribution in plant tissues.
 
+## Community
+
+* Data Carpentry Instructor
+    - Planned: Ecology/R at Chan Zuckerberg Biohub, April 2018
+
 ## Project Details
 
 __Role of gene expression changes in the adaptation of corn and wild relative teosinte hybrids__
@@ -120,12 +122,6 @@ __The Rice Data Center: a multi-feature data analysis tool for _Oryza sativa_ ge
 __Genome wide association study (GWAS) on 503 corn cultivars__
 
 __Indentification of environmental quantitative trait loci in 503 corn cultivars__
-
-## Community
-
-* Data Carpentry Instructor
-    - Planned: Ecology/R at Chan Zuckerberg Biohub, May 2018
-    - Planned: Genomics at Chan Zuckerberg Biohub, May 2018
 
 ## Seminars and Training
 
