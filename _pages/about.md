@@ -33,6 +33,8 @@ I've recently relocated to the Bay Area and I am looking to put my skills, inter
 
 **Personal Projects**
 
+[Cabinet of Curiosities](https://cabinetofcuriosity.github.io/cabinetofcuriosity_site/) is a data science project started by [Ciera Martinez](https://bids.berkeley.edu/people/ciera-martinez) and I with the goal of recognizing orphaned or overlooked publicly available datasets that deal with biodiversity data, and explain how to access these datasets. We also emphasize data cleaning, data organization, and highlight different R packages for analysis.
+
 [Data sketches](https://github.com/carynJohansen/data_sketches) - quick one hour sessions where I analyze and visualize public data with the purpose to learn something new. 
 
 Personal Quantification project is in the works. This entails scraping my computer daily to gather data on how I spend my time, on and off the internet, and integrating my biometric data.
