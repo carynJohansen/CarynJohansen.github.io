@@ -126,7 +126,7 @@ __The Rice Data Center: a multi-feature data analysis tool for _Oryza sativa_ ge
 
 __Genome wide association study (GWAS) on 503 corn cultivars__
 
-__Indentification of environmental quantitative trait loci in 503 corn cultivars__
+__Identification of environmental quantitative trait loci in 503 corn cultivars__
 
 ## Seminars and Training
 
@@ -149,8 +149,9 @@ __Indentification of environmental quantitative trait loci in 503 corn cultivars
 * Cool Kids Code - __December 2016__
     - After-school program at Riverside Elementary in Sacramento, CA designed to teach elementary age kids the basics of computer programming using the Scratch language
 
-## Peer Reviewded Publications
+## Peer Reviewed Publications
 
 K.M. Hazzouri,J.M. Flowers, J. Visser, H.S.M. Khierallah, U. Rosas, G.M. Pham, R.S. Meyer, **C.K. Johansen**, G.S. Markhand, Masmoudi K, N. Haider, N. Kadri, Y. Idahgdhour, Joel Malek, D. Thirkhill, R. Kruegger, A.W. Zayed and M.D. Purugganan. _Whole genome re-sequencing of date palms yields insights into diversification of a fruit tree crop_. Nature communications. 2015 Nov 9;6. doi:10.1038/ncomms9824
 
 [See publication](https://www.nature.com/articles/ncomms9824)
+
