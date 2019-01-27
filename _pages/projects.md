@@ -7,10 +7,11 @@ author: "Caryn Johansen"
 author_profile: true
 ---
 
-MS thesis
+Recent Projects
 ---
 
-[The Rice Data Center](/ricedata/)
+[Cabinet of Curiosity](https://cabinetofcuriosity.github.io/cabinetofcuriosity_site/)
+
 
 PhD work
 ---
@@ -21,10 +22,16 @@ Bayesian Sparse Factor Analysis of Gene Expression in Corn - link coming soon
 
 Linear and Mixed Models to find causal genetic variants in Corn - link coming soon
 
+MS thesis
+---
+
+[The Rice Data Center](/ricedata/)
+
 Side Projects
 ---
 
 [Data sketches](https://github.com/carynJohansen/data_sketches)
 
 [Personal Quantification] - link coming soon
+
 
