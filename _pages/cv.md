@@ -17,11 +17,9 @@ As a data scientist, she works with data from a range of fields both in and outs
 
 ## Current Affiliation
 
-__Data Scientist Contractor__ • Minotuar Bio, Inc. • Feb 2018 - present
+__Data Scientist__ • [HER Lesbian Dating App](https://weareher.com/) • May 2018 - present
 
-[__Cabinet of Curisoty__](https://cabinetofcuriosity.github.io/cabinetofcuriosity_site/) • Data Science Blog with Ciera Martinez • March 2018 - present
-
-[Software Carpentry](https://software-carpentry.org/), Instructor
+[__Cabinet of Curiosity__](https://cabinetofcuriosity.github.io/cabinetofcuriosity_site/) • Data Science Blog with [Ciera Martinez](https://github.com/iamciera) • March 2018 - present
 
 ## Education
 
@@ -55,7 +53,14 @@ __Built__ personal application in R to quantify productivity and assess focus le
 
 ## Work Experience and Projects
 
-**Data Scientist Contractor** • February 2018 - present
+**Data Scientist** • May 2018 - present
+
+* HER Dating App; San Francisco, CA
+* Built the data analysis pipeline for the app to assess app health, user behavior, and conduct A/B product tests
+* Worked and coordinated with the engineering, product, marketing and sales, and leadership teams to deliver key metrics
+* Give weekly company-wide presentations on the state of the app
+
+**Data Scientist Contractor** • February 2018 - May 2018
 
 * Minotaur Inc.; San Francisco, CA
 * Building a bioinformatics pipeline in **R**, **Linux**, and **Python** for Minotaur Inc. to make their gene discovery pipeline scalable and fast
@@ -147,6 +152,10 @@ __Indentification of environmental quantitative trait loci in 503 corn cultivars
 ## Peer Reviewded Publications
 
 K.M. Hazzouri,J.M. Flowers, J. Visser, H.S.M. Khierallah, U. Rosas, G.M. Pham, R.S. Meyer, **C.K. Johansen**, G.S. Markhand, Masmoudi K, N. Haider, N. Kadri, Y. Idahgdhour, Joel Malek, D. Thirkhill, R. Kruegger, A.W. Zayed and M.D. Purugganan. _Whole genome re-sequencing of date palms yields insights into diversification of a fruit tree crop_. Nature communications. 2015 Nov 9;6. doi:10.1038/ncomms9824
+
+[See publication](https://www.nature.com/articles/ncomms9824)
+
+
 
 [See publication](https://www.nature.com/articles/ncomms9824)
 
