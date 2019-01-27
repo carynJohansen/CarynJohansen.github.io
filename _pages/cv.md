@@ -154,8 +154,3 @@ __Indentification of environmental quantitative trait loci in 503 corn cultivars
 K.M. Hazzouri,J.M. Flowers, J. Visser, H.S.M. Khierallah, U. Rosas, G.M. Pham, R.S. Meyer, **C.K. Johansen**, G.S. Markhand, Masmoudi K, N. Haider, N. Kadri, Y. Idahgdhour, Joel Malek, D. Thirkhill, R. Kruegger, A.W. Zayed and M.D. Purugganan. _Whole genome re-sequencing of date palms yields insights into diversification of a fruit tree crop_. Nature communications. 2015 Nov 9;6. doi:10.1038/ncomms9824
 
 [See publication](https://www.nature.com/articles/ncomms9824)
-
-
-
-[See publication](https://www.nature.com/articles/ncomms9824)
-
